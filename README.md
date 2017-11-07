@@ -2,14 +2,14 @@
 
 # Objectifs pédagogiques
 
-* Renforcer sa recherche d'information autonome
+* Commenncer le travail d'équipe
 * Prendre en main Git
 * Se familiariser avec les technologies du web : Html, Css
 
 # Consignes 
 
 - En groupe de trois personnes, realiser les différents wireframes en HTML & CSS.
-- Vous n'utiliserez qu'un seul PC à la fois.
+- Vous n'utiliserez qu'un seul PC à la fois !
 - Vous changerez de rôles toutes les quinze minutes : 
     * un qui écrit
     * deux qui aide la personnes devant le pc
